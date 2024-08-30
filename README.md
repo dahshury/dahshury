@@ -12,19 +12,25 @@ A gym back machine detector (7 machines) using RT-DETRv2 and YOLOv8 with images 
 
 ---
 
-### 2. [Australian Vehicle Price Prediction](https://github.com/dahshury/Australian-Vehicle-Price-Prediction)
+### 2. [Marble Defect Classifier](https://github.com/dahshury/Marble-Defect-Classifier)
+
+A marble quality classifier using from scratch implementation of ResNet34, pretrained ResNet50, and Huggingface pretrained ViT transformer.
+
+---
+
+### 3. [Australian Vehicle Price Prediction](https://github.com/dahshury/Australian-Vehicle-Price-Prediction)
 
 (Regression task) Predicting the prices of Australian vehicles based on 12 features using Exploratory Data Analysis (EDA), Data cleaning, and feature extraction. This is deployed on GCP App Engine with a Streamlit front-end.
 
 ---
 
-### 3. [Bank Term Deposit prediction](https://github.com/dahshury/Bank-term-deposit-prediction)
+### 4. [Bank Term Deposit prediction](https://github.com/dahshury/Bank-term-deposit-prediction)
 
 (Classification task) Predicting whether a customer will subscribe to a term deposit based on 12 features.
 
 ---
 
-### 4. [WinSTT](https://github.com/dahshury/WinSTT)
+### 5. [WinSTT](https://github.com/dahshury/WinSTT)
 
 An application for desktop STT using [Insanely-Fast-Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) and [Faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 
