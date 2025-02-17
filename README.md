@@ -13,7 +13,8 @@ A gym back machine detector (7 machines) using **RT-DETRv2** and **YOLOv8** with
 ---
 
 ### 2. [WinSTT](https://github.com/dahshury/WinSTT)
-An application for desktop Speech-to-Text (STT) using **Insanely-Fast-Whisper** and **Faster-whisper**, a lightweight STT model based on OpenAI’s **Whisper**. The application offers fast transcription and supports over 99 languages without an internet connection. The UI, developed with **PyQT6**, was compiled into a ".exe" file for easy use, including customizable hotkeys and fast transcription ideal for writers or daily use.
+An application for desktop Speech-to-Text (STT) using ONNX Whisper-Turbo, a lightweight STT model based on OpenAI’s **Whisper**. The application offers fast transcription and supports over 99 languages without an internet connection. The UI, developed with **PyQT6**, was compiled into a ".exe" file for easy use, including customizable hotkeys and fast transcription. Ideal for writers or daily use.
+
 ---
 
 ### 3. [Human Pose Estimation](https://github.com/dahshury/Human-Pose-Estimation)
