@@ -7,7 +7,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/dahshory/) or reach me
 ## Repositories ⚙️
 
 
-### 1. [Table-Tennis-Minimap]([https://github.com/dahshury/Back-Machine-Detector](https://github.com/dahshury/Table-tennis-minimap))
+### 1. [Table-Tennis-Minimap](https://github.com/dahshury/Table-tennis-minimap))
 A gym back machine detector (7 machines) using **RT-DETRv2** and **YOLOv8** with images from various online datasets. This can be used in real-world scenarios to identify gym machines even when humans are using them. The solution is deployed on **Microsoft Azure's Web Apps** for containers, with a front-end built using **Streamlit**.
 
 ---
